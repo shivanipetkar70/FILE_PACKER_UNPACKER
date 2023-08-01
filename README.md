@@ -4,7 +4,7 @@ PLATFORM REQUIRED :
 Windows Platform Or Linux Distributions.
 
 ARCHITECTURAL REQUIREMENT :
-INTEL 32 Bit Processor Or Higher.
+AMD RYZEN 64 Bit Processor Or Higher.
 
 USER INTERFACE :
 Command Line Interface And GUI
